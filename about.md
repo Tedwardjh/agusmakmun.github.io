@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
+I am a PhD student in Mathematics, and a fairly terrible programmer.
 
-email: agus[at]python.web.id
+email: ted.jh[at]hotmail.com
