@@ -2,8 +2,8 @@ title: Ted Jones-Healey
 description: PhD student
 author: Ted Jones-Healey
 github: https://github.com/tedwardjh
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
-disqus_shortname: stackproblems
+about: I am a PhD student, and amateur programmer. 
+disqus_shortname: tedjh
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
 
@@ -32,11 +32,11 @@ share:
   fb_appid: 1749788565247320
 
 urls:
-    - text: About Me
+    - text: Research
       url: /about/
-    - text: My Projects
+    - text: CV
       url: /projects/
-    - text: XML Feed
+    - text: About Me
       url: /feed.xml
 
 url: "https://agusmakmun.github.io"
