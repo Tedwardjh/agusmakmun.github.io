@@ -33,13 +33,13 @@ share:
 
 urls:
     - text: Research
-      url: /about/
-    - text: CV
       url: /projects/
+    - text: CV
+      url: /about/
     - text: About Me
-      url: /feed.xml
+      url: /about/
 
-url: "https://agusmakmun.github.io"
+url: "https://tedwardjh.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
